@@ -1,0 +1,21 @@
+.header-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand {
+    font-family: Montserrat;
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 0;
+    cursor: pointer;
+}
+
+.account {
+    font-family: Montserrat;
+    font-size: 1.2rem;
+    margin: 0;
+    cursor: pointer;
+}
+
